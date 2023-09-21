@@ -1,0 +1,15 @@
+{
+  "name": "forstudmorenode",
+  "version": "1.0.0",
+  "description": "anotherNodeStud",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "JerryLee",
+  "license": "ISC",
+  "dependencies": {
+    "uuid": "^9.0.1"
+  }
+}
